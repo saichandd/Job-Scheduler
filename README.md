@@ -18,12 +18,6 @@ Run the make file
 C99
 ```
 
-### Coding style
-
-```
-TABS - coz I need my SPACE
-```
-
 ## Acknowledgments
 
 * Eugene Stark 
